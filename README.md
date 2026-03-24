@@ -1,10 +1,11 @@
-<h2> Calcular Média </h2>
+<h2> Cálculo com Fórmula de Bhaskara </h2>
 Aplicativo desenvolvido como atividade da disciplina de Programação para Dispositivos Móveis.
-O projeto realiza o cálculo de média onde o usuário insere quatro números.
+O projeto realiza o cálculo da fórmula de bhaskara onde o usuário insere os valores A, B e C.
 
 ## Funcionalidades 
-* Inserção de quatro números
-* Cálculo de média
+* Inserção de três valores
+* Cálculo do Delta e da Fórmula de Bhaskara
+* Validação do valor A e se há uma raíz real, através do resultado de Delta
 * Interface simples para prática de desenvolvimento mobile
 
 ## Tecnologias utilizadas
@@ -14,10 +15,10 @@ O projeto realiza o cálculo de média onde o usuário insere quatro números.
 
 ## Como executar o projeto 
 1. Clone o repositório:
-git clone https://github.com/aimeeaas/media-quatro-numeros.git
+git clone https://github.com/aimeeaas/formula-bhaskara.git
 
 2. Acesse a pasta do projeto:
-cd atividade2
+cd formula-bhaskara
 
 3. Instale as dependências:
 npm install
